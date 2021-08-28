@@ -1,2 +1,2 @@
-c=a+b
+c=a+b+d
 print()
